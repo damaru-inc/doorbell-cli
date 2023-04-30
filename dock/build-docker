@@ -1,0 +1,2 @@
+cp ../target/*.jar .
+docker build -t damaru/doorbell .

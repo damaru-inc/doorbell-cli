@@ -1,0 +1,11 @@
+solace:
+  java:
+    host: mr-connection-ayxd-c5749osfr99.messaging.solace.cloud:55555
+    msgVpn: mdavis1
+    clientUsername: solace-cloud-client
+    clientPassword: blarg
+logging:
+  level:
+    root: INFO
+    org.springframework: INFO
+
