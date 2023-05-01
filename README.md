@@ -10,3 +10,5 @@ There are two components to the system:
 
 This is the second of the two.
 
+The first is https://github.com/damaru-inc/proximity
+
