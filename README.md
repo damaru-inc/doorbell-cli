@@ -6,7 +6,7 @@ There are two components to the system:
 
 1. A proximity sensor connected to a microcontroller, that sends messages to Solace when it detects a presence within 70cm distance.
 
-2. An application that recieves those messages from Solace and makes a dinging sound in response.
+2. An application that receives those messages from Solace and makes a dinging sound in response.
 
 This is the second of the two.
 
